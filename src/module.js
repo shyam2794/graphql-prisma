@@ -1,0 +1,1 @@
+export const consoleMessage = "testing import and export";
